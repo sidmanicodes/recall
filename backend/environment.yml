@@ -1,0 +1,11 @@
+name: recall
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - transformers
+  - pytorch
+  - python-dotenv
+  - numpy
+  - supabase
+  - fastapi
